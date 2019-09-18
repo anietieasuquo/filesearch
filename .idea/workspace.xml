@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd1ee634-2b4c-40aa-b56f-2c7abdf5da40" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-510212514">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MF" value="2" />
+          <entry key="class" value="2" />
+          <entry key="java" value="83" />
+          <entry key="md" value="3" />
+          <entry key="txt" value="62" />
+          <entry key="xml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="83" />
+          <entry key="Manifest" value="2" />
+          <entry key="Markdown" value="3" />
+          <entry key="PLAIN_TEXT" value="62" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="MF" value="38" />
+          <entry key="java" value="19418" />
+          <entry key="md" value="668" />
+          <entry key="txt" value="1126" />
+          <entry key="xml" value="170" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="19418" />
+          <entry key="Manifest" value="38" />
+          <entry key="Markdown" value="668" />
+          <entry key="PLAIN_TEXT" value="1126" />
+          <entry key="XML" value="170" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/adevinta/filesearch/engine/SearchEngineTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="47">
+              <caret line="20" column="23" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/FileSearchApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1065">
+              <caret line="71" column="70" selection-end-line="87" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/engine/SearchEngine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="515">
+              <caret line="106" column="52" selection-start-line="106" selection-start-column="52" selection-end-line="106" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/FileSearchRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="8" selection-end-line="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>throw</find>
+      <find>london</find>
+      <find>System</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/FileSearchApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FileSearchRunner.java" />
+        <option value="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/dto/SearchResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/util/DirectoryHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/util/SearchHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/util/Command.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/test_files/test1.txt" />
+        <option value="$PROJECT_DIR$/src/test/resources/test_files/test2.txt" />
+        <option value="$PROJECT_DIR$/src/test/resources/test_files/test3.txt" />
+        <option value="$PROJECT_DIR$/src/test/resources/test_files/test4.txt" />
+        <option value="$PROJECT_DIR$/src/test/resources/test_files/test5.txt" />
+        <option value="$PROJECT_DIR$/src/test/resources/test_files/test6.txt" />
+        <option value="$PROJECT_DIR$/src/test/resources/test_files/test7.txt" />
+        <option value="$PROJECT_DIR$/src/test/resources/test_files/test8.txt" />
+        <option value="$PROJECT_DIR$/src/test/resources/test_files/test9.txt" />
+        <option value="$PROJECT_DIR$/src/test/resources/test_files/test10.txt" />
+        <option value="$PROJECT_DIR$/src/test/resources/test_files/test11.txt" />
+        <option value="$PROJECT_DIR$/src/test/resources/test_files/test12.txt" />
+        <option value="$PROJECT_DIR$/src/test/resources/test_files/test13.txt" />
+        <option value="$PROJECT_DIR$/src/test/resources/test_files/test14.txt" />
+        <option value="$PROJECT_DIR$/src/test/resources/test_files/test15.txt" />
+        <option value="$PROJECT_DIR$/src/test/resources/test_files/test16.txt" />
+        <option value="$PROJECT_DIR$/src/test/resources/test_files/test17.txt" />
+        <option value="$PROJECT_DIR$/src/test/resources/test_files/test18.txt" />
+        <option value="$PROJECT_DIR$/src/test/resources/test_files/test19.txt" />
+        <option value="$PROJECT_DIR$/src/test/resources/test_files/test20.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/util/SearchUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/adevinta/filesearch/util/SearchUtilTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/util/ConsoleMessage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/dto/Word.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/adevinta/filesearch/TestUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/dto/FileResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/dto/Keyword.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/test/resources/test_files/subfolder/test24.txt" />
+        <option value="$PROJECT_DIR$/src/test/resources/input_files/input.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/engine/SearchOption.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/dto/SearchTerm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/engine/SearchEngine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/FileSearchRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/FileSearchApplication.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/adevinta/filesearch/engine/SearchEngineTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/adevinta/filesearch/FileSearchApplicationTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="737" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="filesearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="filesearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="filesearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="filesearch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="filesearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="filesearch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="filesearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="filesearch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="filesearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="filesearch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="filesearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="filesearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="filesearch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="filesearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="filesearch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="filesearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="filesearch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="input_files" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568838483160" />
+    <property name="last.edited.regexp" value="&quot;^[a-zA-Z0-9]*$&quot;" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5255814" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.adevinta.filesearch.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in filesearch">
+    <configuration name="All in filesearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="filesearch" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileSearchApplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="filesearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adevinta.filesearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.adevinta.filesearch" />
+      <option name="MAIN_CLASS_NAME" value="com.adevinta.filesearch.FileSearchApplicationTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileSearchApplicationTest.start_withIndexedFilesAndEmptySearchResult_shouldPrintNoResultFoundMessageToConsole" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="filesearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adevinta.filesearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.adevinta.filesearch" />
+      <option name="MAIN_CLASS_NAME" value="com.adevinta.filesearch.FileSearchApplicationTest" />
+      <option name="METHOD_NAME" value="start_withIndexedFilesAndEmptySearchResult_shouldPrintNoResultFoundMessageToConsole" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileSearchApplicationTest.start_withIndexedFilesAndValidSearchResults_shouldPrintSearchResultsToConsole" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="filesearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adevinta.filesearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.adevinta.filesearch" />
+      <option name="MAIN_CLASS_NAME" value="com.adevinta.filesearch.FileSearchApplicationTest" />
+      <option name="METHOD_NAME" value="start_withIndexedFilesAndValidSearchResults_shouldPrintSearchResultsToConsole" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchEngineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="filesearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adevinta.filesearch.engine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.adevinta.filesearch.engine" />
+      <option name="MAIN_CLASS_NAME" value="com.adevinta.filesearch.engine.SearchEngineTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="exec:java" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jar:jar" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.Run" />
+      <item itemvalue="JUnit.FileSearchApplicationTest.start_withIndexedFilesAndEmptySearchResult_shouldPrintNoResultFoundMessageToConsole" />
+      <item itemvalue="JUnit.FileSearchApplicationTest.start_withIndexedFilesAndValidSearchResults_shouldPrintSearchResultsToConsole" />
+      <item itemvalue="JUnit.FileSearchApplicationTest" />
+      <item itemvalue="JUnit.All in filesearch" />
+      <item itemvalue="JUnit.SearchEngineTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in filesearch" />
+        <item itemvalue="JUnit.FileSearchApplicationTest" />
+        <item itemvalue="JUnit.SearchEngineTest" />
+        <item itemvalue="JUnit.FileSearchApplicationTest.start_withIndexedFilesAndValidSearchResults_shouldPrintSearchResultsToConsole" />
+        <item itemvalue="JUnit.FileSearchApplicationTest.start_withIndexedFilesAndEmptySearchResult_shouldPrintNoResultFoundMessageToConsole" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd1ee634-2b4c-40aa-b56f-2c7abdf5da40" name="Default Changelist" comment="" />
+      <created>1568658852160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568658852160</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FileSearchApplicationTest_start_withIndexedFilesAndEmptySearchResult_shouldPrintNoResultFoundMessageToConsole - 2019.09.18 at 20h 52m 16s.xml">
+      <configuration name="FileSearchApplicationTest.start_withIndexedFilesAndEmptySearchResult_shouldPrintNoResultFoundMessageToConsole" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileSearchApplicationTest_start_withIndexedFilesAndEmptySearchResult_shouldPrintNoResultFoundMessageToConsole - 2019.09.18 at 20h 53m 45s.xml">
+      <configuration name="FileSearchApplicationTest.start_withIndexedFilesAndEmptySearchResult_shouldPrintNoResultFoundMessageToConsole" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileSearchApplicationTest_start_withIndexedFilesAndEmptySearchResult_shouldPrintNoResultFoundMessageToConsole - 2019.09.18 at 20h 54m 18s.xml">
+      <configuration name="FileSearchApplicationTest.start_withIndexedFilesAndEmptySearchResult_shouldPrintNoResultFoundMessageToConsole" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileSearchApplicationTest_start_withIndexedFilesAndValidSearchResults_shouldPrintSearchResultsToConsole - 2019.09.18 at 20h 55m 26s.xml">
+      <configuration name="FileSearchApplicationTest.start_withIndexedFilesAndValidSearchResults_shouldPrintSearchResultsToConsole" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileSearchApplicationTest - 2019.09.18 at 20h 56m 03s.xml">
+      <configuration name="FileSearchApplicationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_filesearch - 2019.09.18 at 20h 56m 11s.xml">
+      <configuration name="All in filesearch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SearchEngineTest - 2019.09.18 at 21h 25m 24s.xml">
+      <configuration name="SearchEngineTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileSearchApplicationTest - 2019.09.18 at 21h 25m 36s.xml">
+      <configuration name="FileSearchApplicationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_filesearch - 2019.09.18 at 21h 26m 05s.xml">
+      <configuration name="All in filesearch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_filesearch - 2019.09.18 at 21h 27m 42s.xml">
+      <configuration name="All in filesearch" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="737" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Learn" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.26171243" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.32868218" />
+      <window_info anchor="bottom" id="CheckStyle" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32868218" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.32868218" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/nio/file/Path.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4503">
+          <caret line="97" column="17" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/dto/SearchResult.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_files/test.txt" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_files/test1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-core/3.0.0/mockito-core-3.0.0.jar!/org/mockito/Mockito.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="68" column="24" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_files/test5.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" selection-start-column="45" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_files/test6.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" selection-start-column="55" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_files/test4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="47" selection-start-column="47" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_files/test8.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" selection-start-column="55" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_files/test7.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" selection-start-column="55" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_files/test10.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="574" selection-start-column="574" selection-end-column="574" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_files/test19.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="574" selection-start-column="574" selection-end-column="574" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_files/test18.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="574" selection-start-column="574" selection-end-column="574" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_files/test17.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="574" selection-start-column="574" selection-end-column="574" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_files/test16.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="574" selection-start-column="574" selection-end-column="574" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_files/test15.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="574" selection-start-column="574" selection-end-column="574" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_files/test14.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="574" selection-start-column="574" selection-end-column="574" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_files/test13.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="574" selection-start-column="574" selection-end-column="574" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_files/test11.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="574" selection-start-column="574" selection-end-column="574" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_files/test9.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="574" selection-start-column="574" selection-end-column="574" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_files/test20.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/io/ByteArrayInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="102" column="11" selection-start-line="102" selection-start-column="11" selection-end-line="102" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6626">
+          <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/adevinta/filesearch/util/SearchUtilTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_files/test12.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="574" lean-forward="true" selection-start-column="367" selection-end-column="574" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/com.adevinta.filesearch.util.SearchUtilTest.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/com.adevinta.filesearch.TestUtil.txt" />
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/com.adevinta.filesearch.FileSearchApplicationTest.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/com.adevinta.filesearch.engine.SearchEngineTest.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="71" column="30" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/util/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/util/ConsoleMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/dto/Keyword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/dto/FileResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#856#857#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#928#929#0" expanded="true" />
+            <element signature="e#1388#1389#0" expanded="true" />
+            <element signature="e#1435#1436#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="149">
+            <caret line="10" column="120" selection-start-line="10" selection-start-column="120" selection-end-line="10" selection-end-column="120" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_files/test2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_files/test3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test_files/subfolder/test24.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="117" selection-start-line="8" selection-start-column="117" selection-end-line="8" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/input_files/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/input_files/empty.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/adevinta/filesearch/TestUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/engine/SearchOption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="52" column="23" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/dto/SearchTerm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/util/SearchUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/FileSearchRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="8" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/FileSearchApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="71" column="70" selection-end-line="87" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/adevinta/filesearch/engine/SearchEngineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/adevinta/filesearch/FileSearchApplicationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="27" column="40" lean-forward="true" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adevinta/filesearch/engine/SearchEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="106" column="52" selection-start-line="106" selection-start-column="52" selection-end-line="106" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5255814" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5255814" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5255814" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5255814" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>filesearch</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5255814" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5255814" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

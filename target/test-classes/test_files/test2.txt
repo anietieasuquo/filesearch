@@ -1,0 +1,7 @@
+This is the first search test for something that is supposedly in the about five files, but this is the first file.
+
+This second line is just for another test.
+
+The quick brown fox jumped over the lazy dog.
+
+America is not a good place to raise kids.
