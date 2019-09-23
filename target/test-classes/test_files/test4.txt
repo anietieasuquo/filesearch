@@ -1,7 +1,0 @@
-This is the first test for something that is supposedly in the about five files, but this is the first file.
-
-This second line is just for another test.
-
-The quick brown lizard jumped over the lazy caterpillar, whatever that means.
-
-You can actually place more text in this file just to see how the works.

@@ -1,7 +1,0 @@
-This is the first test for something that is presumably in about five files, but this is the first file.
-
-This second line is just for another test.
-
-The quick brown cat jumped over the lazy mouse.
-
-London is a nice place to live in. Note that this is the first time the word London is used.

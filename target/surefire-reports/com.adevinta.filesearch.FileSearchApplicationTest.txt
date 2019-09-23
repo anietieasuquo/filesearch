@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.adevinta.filesearch.FileSearchApplicationTest
--------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.675 s - in com.adevinta.filesearch.FileSearchApplicationTest
